@@ -7,4 +7,4 @@ if(a>00 && a<11){
  }
  else{
      alert('Good Evening')
- }
+ };
