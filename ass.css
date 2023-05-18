@@ -1,10 +1,11 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: lightgoldenrodyellow;
+    background: black;
+    color: white;
 }
 .nav{
-    background: rgb(4, 4, 130);
+    background: red;
     color: white;
     display: flex;
     flex-direction: row;
